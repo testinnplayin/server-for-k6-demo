@@ -1,0 +1,14 @@
+{
+  "name": "server-for-k6-demo",
+  "version": "1.0.0",
+  "description": "small node server for demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "R Wood",
+  "license": "ISC"
+}
