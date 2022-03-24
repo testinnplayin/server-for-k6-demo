@@ -10,5 +10,11 @@
     "demo"
   ],
   "author": "R Wood",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "fastify": "^3.27.4",
+    "fastify-mongodb": "^4.1.1",
+    "fastify-plugin": "^3.0.1"
+  }
 }
